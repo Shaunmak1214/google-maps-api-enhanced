@@ -4,8 +4,8 @@
 
 ## <p align="center">:raised_hand: Screenshotooooos</p>
 
-### <img src = "https://github.com/Shaunmak1214/MarketPlace-Platform-C-Plus-Plus/blob/master/assets/screenshot1.png">
+### <img src = "https://github.com/Shaunmak1214/google-maps-api-enhanced/blob/master/assets/screenshot1.png">
 
-### <img src = "https://github.com/Shaunmak1214/MarketPlace-Platform-C-Plus-Plus/blob/master/assets/screenshot2.png">
+### <img src = "https://github.com/Shaunmak1214/google-maps-api-enhanced/blob/master/assets/screenshot2.png">
 
-### <img src = "https://github.com/Shaunmak1214/MarketPlace-Platform-C-Plus-Plus/blob/master/assets/screenshot3.png">
+### <img src = "https://github.com/Shaunmak1214/google-maps-api-enhanced/blob/master/assets/screenshot3.png">

@@ -1,6 +1,6 @@
 <?php
 
-  include_once"../../dbconn.php";
+  include_once"../dbconn.php";
 
   function parseToXML($htmlStr)
   {
